@@ -27,20 +27,6 @@ Ensure you have the following installed:
    ```
    Open [http://localhost:3000](http://localhost:3000) if it does not open automatically.
 
-## Building for Production
-
-1. **Create a production build:**
-   ```sh
-   npm run build
-   ```
-
-## Testing the Application
-
-1. **Run tests:**
-   ```sh
-   npm test
-   ```
-
 ## Tailwind CSS Configuration
 
 Tailwind CSS is configured in `tailwind.config.js`. Modify this file to extend or customize the default setup.
@@ -72,10 +58,6 @@ simplelogin-frontend/
 ├── README.md
 └── tailwind.config.js
 ```
-
-## Environment Variables
-
-Create a `.env` file in the root directory to define environment variables.
 
 ## Additional Resources
 
