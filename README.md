@@ -10,7 +10,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/simplelogin-frontend.git
+   git clone https://github.com/phcodesage/simplelogin-frontend.git
    cd simplelogin-frontend
    ```
 
